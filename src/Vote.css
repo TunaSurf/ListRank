@@ -1,0 +1,11 @@
+h2 span {
+  color: #EB7291;
+}
+
+.optionsList:hover {
+  box-shadow: 0 1px 12px 1px rgba(96,42,60,0.16), 0 2px 1px -1px rgba(241,106,150,0.8);
+}
+
+.optionslist select {
+  font-size: 100%;
+}

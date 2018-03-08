@@ -1,0 +1,25 @@
+.Results {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.viewIndividuals {
+  color: #f7a069;
+  text-align: right;
+}
+
+.viewIndividuals a {
+  cursor: pointer;
+}
+
+.IndividualRank {
+  margin-top: 40px;
+}
+
+.voterLabel {
+  padding: 0 10px 15px 10px;
+}
+
+.voterLabel span {
+  color: #eb7291;
+}
